@@ -7,3 +7,5 @@ Checking out the merge
 checking the merging with master
 
 merging with feature
+
+branch again
