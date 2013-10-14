@@ -1,3 +1,7 @@
 Hello Paul???
 Here we  go
 here is the second staging
+here we go again
+
+Checking out the merge
+checking the merging with master
