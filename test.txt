@@ -4,4 +4,14 @@ here is the second staging
 here we go again
 
 Checking out the merge
+<<<<<<< HEAD
 checking the merging with master
+=======
+checking the merging with master
+
+merging with feature
+
+branch again
+
+the final attempt
+>>>>>>> feature
